@@ -1,0 +1,8 @@
+[submodule "apps"]
+	path = apps
+	url = https://github.com/XuNeo/incubator-nuttx-apps.git
+	branch = luavgl
+[submodule "nuttx"]
+	path = nuttx
+	url = git@github.com:XuNeo/incubator-nut.git
+	branch = luavgl
