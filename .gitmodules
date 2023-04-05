@@ -4,5 +4,5 @@
 	branch = luavgl
 [submodule "nuttx"]
 	path = nuttx
-	url = git@github.com:XuNeo/incubator-nut.git
+	url = git@github.com:XuNeo/incubator-nuttx.git
 	branch = luavgl
